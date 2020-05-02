@@ -1,0 +1,6 @@
+#ignore raw Planet scenes
+/*/*/*/*.tif
+/*/*/*/*.xml
+
+#ignore venv data
+/venv
