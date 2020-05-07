@@ -193,7 +193,7 @@ if __name__ == "__main__":
                         action="store_true")
     args = parser.parse_args()
 
-    data_dir = "./data/rhode_island_data"
+    data_dir = "./data/massachusetts_data"
 
     
     for sub_dir in os.listdir(data_dir):
